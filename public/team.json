@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Fernando",
+        "id": "1",
+        "description": "Front End Developer"
+    },
+    {
+        "name": "Jesús",
+        "id": "2",
+        "description": "FullStack Developer"
+
+    },
+    {
+        "name": "Alfonso",
+        "id": "3",
+        "description": "DevOps Developer"
+
+    },
+    {
+        "name": "Eduardo",
+        "id": "4",
+        "description": "DevOps Developer"
+
+    },
+    {
+        "name": "Enrique",
+        "id": "5",
+        "description": "Manager"
+
+    },
+    {
+        "name": "Julio",
+        "id": "6",
+        "description": "Director"
+
+    },
+    {
+        "name": "Alejandro",
+        "id": "7",
+        "description": "DevOps Developer"
+
+    },
+    {
+        "name": "Pedro",
+        "id": "8",
+        "description": "Front End Developer"
+
+    },
+    {
+        "name": "César",
+        "id": "9",
+        "description": "Manager",
+        "img": "https://picsum.photos/500/302"
+
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "nombre": "EMEA/Cuenta1",
+        "uso": "Administrar",
+        "email": "smerida@deloitte.es",
+        "nivel": "A"
+    },
+    {
+        "nombre": "EMEA/Cuenta2",
+        "uso": "Crear",
+        "email": "smerida@deloitte.es",
+        "nivel": "B"
+    },
+    {
+        "nombre": "EMEA/Cuenta3",
+        "uso": "Eliminar",
+        "email": "smerida@deloitte.es",
+        "nivel": "C"
+    },
+    {
+        "nombre": "EMEA/Cuenta4",
+        "uso": "Crear",
+        "email": "smerida@deloitte.es",
+        "nivel": "D"
+    },
+    {
+        "nombre": "EMEA/Cuenta5",
+        "uso": "Administrar",
+        "email": "smerida@deloitte.es",
+        "nivel": "1"
+    },
+    {
+        "nombre": "EMEA/Cuenta6",
+        "uso": "Borrar",
+        "email": "smerida@deloitte.es",
+        "nivel": "2"
+    }
+
+]
